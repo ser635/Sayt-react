@@ -1,0 +1,13 @@
+.tg {
+    color: aliceblue;
+    font-size: 40px;
+  }
+
+.vvcx {
+display: flex;
+flex-direction: row;
+justify-content: center;
+position: relative;
+top: auto;
+right: 800px;
+}

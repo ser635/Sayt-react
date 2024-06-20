@@ -1,0 +1,20 @@
+.Ltop {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    background-color: #14063D;
+}
+
+.tx {
+    color:aliceblue;
+    font-size: 70px;
+}
+
+.tt{
+    color:aliceblue;
+    font-size: 20px;
+}
+
+.ed {
+    color:red
+}

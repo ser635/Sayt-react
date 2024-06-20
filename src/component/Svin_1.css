@@ -1,0 +1,21 @@
+.jj {
+    margin-top: 50PX;
+    display: block;
+    flex-direction: column;
+    justify-content: flex-start;
+    background-color: #14063D;
+}
+
+.fd {
+    height: 230px;
+    width: 370px;
+}
+
+.tn {
+    color:aliceblue;
+    font-size: 25px;
+}
+
+.tv {
+    color: gray;
+}

@@ -1,0 +1,6 @@
+.gg {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #14063D;
+}

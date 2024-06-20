@@ -1,0 +1,16 @@
+.Part {
+    display: block;
+    flex-direction: row;
+    margin-top: 50px;
+}
+
+.ffd {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.ss {
+    position: relative;
+    left: 50px;
+}

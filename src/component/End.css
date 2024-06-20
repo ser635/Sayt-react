@@ -1,0 +1,43 @@
+.End{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #0c0420;
+    margin-top: 50px;
+}
+
+.Logo {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #0c0420;
+}
+
+.jjfffj {
+    color: gray;
+    font-size: 10px;
+    background-color: #0c0420;
+}
+
+.center {
+    background-color: #0c0420;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.gg{
+    background-color: #0c0420;
+    color: aliceblue;
+}
+
+.start {
+    display: block;
+    flex-direction: row;
+    background-color: #0c0420;
+}
+.nadpis {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}

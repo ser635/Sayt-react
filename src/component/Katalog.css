@@ -1,0 +1,8 @@
+.Katal {
+    background-color: #14063D;
+    display: block;
+    flex-direction: row;
+    justify-content: flex-start;
+    position: relative;
+    margin-top: 100px;
+}

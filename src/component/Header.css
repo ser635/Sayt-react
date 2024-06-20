@@ -1,0 +1,10 @@
+.tb {
+    color: aliceblue;
+}
+
+.knop {
+    content: "";
+    display: block;
+    background: linear-gradient(270deg, #800bf5 26.67%, #25c6f9 97.33%);
+    border-radius: 56px;
+}

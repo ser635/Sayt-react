@@ -1,0 +1,7 @@
+.bl {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    background-color: #14063D;
+    white-space: nowrap
+}

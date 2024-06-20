@@ -1,0 +1,78 @@
+.block11 {
+    margin-bottom: 25px
+}
+
+.accordion-item {
+    display: flex
+}
+
+.accordion-item:not(:last-child) {
+    margin-bottom: 2px
+}
+
+.accordion-body {
+    flex: 1 1 auto;
+    padding: 13px 16px;
+    background: linear-gradient(90deg,#00c2ff,rgba(73,203,244,0));
+    border-radius: 0 48px 48px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center
+}
+
+.accordion-header h2 {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 120%
+}
+
+.accordion-btn,.accordion-header h2 {
+    font-family: PT Sans,sans-serif;
+    color: #14063d
+}
+
+.accordion-btn {
+    flex: 0 0 48px;
+    height: 48px;
+    background: #49cbf4;
+    border-radius: 40px 0 0 40px;
+    font-size: 40px;
+    line-height: 48px
+}
+
+.accordion-btn:nth-child(2n) {
+    height: 69px
+}
+
+.accordion-content {
+    display: none;
+    line-height: 120%;
+    color: #14063d;
+    font-family: PT Sans,sans-serif;
+    transition: all .7s linear
+}
+
+.accordion-content p {
+    padding-top: 25px;
+    margin-bottom: 25px
+}
+
+.accordion-content ol {
+    padding-left: 5%
+}
+
+.accordion-content ol li {
+    padding-left: 3px
+}
+
+.accordion-content ol li:not(:last-child) {
+    margin-bottom: 15px
+}
+
+.accordion-item.open .accordion-content {
+    display: block
+}
+
+.accordion-item.open .accordion-body {
+    background: #49cbf4
+}

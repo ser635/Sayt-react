@@ -1,0 +1,102 @@
+.lol {
+        display: block;
+        flex-direction: column;
+        justify-content: flex-start;
+        background-color: #14063D;
+}
+
+.zzx {
+    width: 400px;
+    height: 400px;
+    position: relative;
+    left: 600px;
+    bottom: 200px;
+}
+
+.zzb {
+    width: 100px;
+    height: 150px;
+    position: relative;
+    left: 650px;
+    bottom: 100px;
+}
+
+
+.zzc {
+    width: 400px;
+    height: 400px;
+    position: relative;
+    left: 950px;
+    bottom: 100px;
+}
+
+.zzz {
+    width: 200px;
+    height: 150px;
+    position: relative;
+    left: 150px;
+    bottom: 200px;
+}
+
+.zzn {
+    width: 400px;
+    height: 400px;
+    position: relative;
+    left: 400px;
+    bottom: 175px;
+}
+
+.zzm {
+    width: 300px;
+    height: 150px;
+    position: relative;
+    left: 450px;
+    bottom: 200px;
+}
+
+.kn {
+    content: "";
+    display: block;
+    background: linear-gradient(270deg, #800bf5 26.67%, #25c6f9 97.33%);
+    border-radius: 50%;
+    width: 300px;
+    position: relative;
+    left: 400px;
+    bottom: 150px;
+}
+
+.ef {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.zzy {
+    width: 275px;
+    height: 50px;
+    position: relative;
+    left: 750px;
+    bottom: 200px;
+}
+
+.zzl {
+    width: 100px;
+    height: 75px;
+    position: relative;
+    left: 600px;
+    bottom: 300px;
+}
+
+.vcv {
+    width: 300px;
+    height: 300px;
+    position: relative;
+    right: 500px;
+    bottom: 250px;
+}
+
+.xxc {
+    position: relative;
+    left: 500px;
+    bottom: 250px;
+}
